@@ -6,4 +6,6 @@
 6. Accessing Attributes of Functions 
 7. Performing Bitwise XOR
 8. Swapping Variable Values Without an Intermediary
-Variable
+   Variable
+9. Introspection and Reflection
+10. Understanding Mixins in Object-Oriented Programming 
