@@ -9,3 +9,4 @@
    Variable
 9. Introspection and Reflection
 10. Understanding Mixins in Object-Oriented Programming 
+11. Exploring the "CheeseShop"
