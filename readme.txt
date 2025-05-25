@@ -8,5 +8,9 @@
 8. Swapping Variable Values Without an Intermediary
    Variable
 9. Introspection and Reflection
-10. Understanding Mixins in Object-Oriented Programming 
-11. Exploring the "CheeseShop"
+10. Understanding Mixins in Object-Oriented Programming
+11. Counting Vowels in a Given Word.
+12. Counting Consonants in a Given Word.
+13. Counting the number of accurances of a 
+     character in a String.
+     
