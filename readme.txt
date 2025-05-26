@@ -13,4 +13,6 @@
 12. Counting Consonants in a Given Word.
 13. Counting the number of accurances of a 
      character in a String.
+14. Writing FIBONACCI Series.
+15. Finding the Maximum Number in a List.
      
