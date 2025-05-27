@@ -20,7 +20,7 @@ def count_consonants(word):
 
     return count
 
-
+    
 # Test case
 word = "Hello World"
 print(f"The number of consonants in '{word}' is {count_consonants(word)}")

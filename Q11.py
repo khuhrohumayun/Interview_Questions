@@ -27,7 +27,4 @@ print(f"The number of vowels in '{word}' is {count_Vowels(word)}")
 
 
 # you can also solve it in one line using list comprehension
-
 sum(1 for char in word if char.lower() in 'aeiou')
-
-print(word)
