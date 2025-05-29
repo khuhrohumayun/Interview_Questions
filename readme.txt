@@ -17,4 +17,5 @@
 15. Finding the Maximum Number in a List.
 16. Finding the Minimum Number in a list.
 17. Finding the Middle Element in a list.
-     
+18. Converting a list into a String
+19. Adding Two list Element Together
