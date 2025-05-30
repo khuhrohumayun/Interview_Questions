@@ -19,3 +19,5 @@
 17. Finding the Middle Element in a list.
 18. Converting a list into a String
 19. Adding Two list Element Together
+20. Comparing Two Strings for ANAGRAMS
+21. checking for PALINDROME Using Extended Slicing Technique
