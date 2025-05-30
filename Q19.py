@@ -17,6 +17,13 @@ def add_lists(list1, list2):
     return [a + b for a, b in zip(list1, list2)]
 
 
+# without using list comprehension 
+def add_lists_loop(list1, list2):
+    result = []
+    for a, b in zip(list1, list2):
+        result.append(a + b)
+    return result
+
 
 # Test cases
 list1 = [1, 2, 3]
