@@ -21,3 +21,4 @@
 19. Adding Two list Element Together
 20. Comparing Two Strings for ANAGRAMS
 21. checking for PALINDROME Using Extended Slicing Technique
+22. Counting Whitespace spaces in a string.
