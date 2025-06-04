@@ -23,3 +23,4 @@
 21. checking for PALINDROME Using Extended Slicing Technique
 22. Counting Whitespace spaces in a string.
 23. Counting Digits, Letters, and Spaces in String.
+24. Counting Special character in a String.
