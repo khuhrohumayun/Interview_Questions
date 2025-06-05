@@ -24,3 +24,4 @@
 22. Counting Whitespace spaces in a string.
 23. Counting Digits, Letters, and Spaces in String.
 24. Counting Special character in a String.
+25. Removing all Whitespace in a string.
