@@ -25,3 +25,4 @@
 23. Counting Digits, Letters, and Spaces in String.
 24. Counting Special character in a String.
 25. Removing all Whitespace in a string.
+26. Building a Pyramid in a Python.
