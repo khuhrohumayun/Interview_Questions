@@ -26,3 +26,4 @@
 24. Counting Special character in a String.
 25. Removing all Whitespace in a string.
 26. Building a Pyramid in a Python.
+27. Randomizing the items of a list in Python.
