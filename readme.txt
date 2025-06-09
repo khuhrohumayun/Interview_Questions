@@ -27,3 +27,5 @@
 25. Removing all Whitespace in a string.
 26. Building a Pyramid in a Python.
 27. Randomizing the items of a list in Python.
+28. Write a program that prompts the user for a sentence and display the number
+    of vowels in the sentence..
