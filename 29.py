@@ -21,7 +21,7 @@ def is_prime(num):
 def prime_generator(n):
     num = 2  # Start checking for prime numbers from 2
     while n:
-        if is_prime(n):
+        if is_prime(num):
             '''
             #yield keyword sed to retrun a value and then the code
             is resumed inside the function unlike the return keyword end
