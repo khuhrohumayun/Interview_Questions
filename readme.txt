@@ -29,3 +29,5 @@
 27. Randomizing the items of a list in Python.
 28. Write a program that prompts the user for a sentence and display the number
     of vowels in the sentence..
+29. Create a generator to produce first n prime numers.
+30. Implementing variable length argments in python.
