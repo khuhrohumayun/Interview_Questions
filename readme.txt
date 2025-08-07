@@ -32,3 +32,4 @@
 29. Create a generator to produce first n prime numers.
 30. Implementing variable length argments in python.
 31. BMI Calculator using function.
+32. Miles to kilometer.
